@@ -1,0 +1,16 @@
+{
+    "name": "HomeData",
+    "rootNamespace": "HomeData",
+    "references": [
+        "GUID:73099257b832ae64f92545230632d549"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

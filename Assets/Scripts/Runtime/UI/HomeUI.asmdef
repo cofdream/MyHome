@@ -1,0 +1,17 @@
+{
+    "name": "HomeUI",
+    "rootNamespace": "HomeUI",
+    "references": [
+        "GUID:73099257b832ae64f92545230632d549",
+        "GUID:0041e9026082dea4a984fa52b6029bde"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
