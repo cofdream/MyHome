@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: UserData
   m_EditorClassIdentifier: 
   UserName: Cofdream
-  Title: title...
-  Subtitle: subtitle...
+  Title: Cofdream Home
+  Subtitle: "This\u2018s a dark world."
   UserHeadIcon:
     _spritePath: 
     _sprite: {fileID: 21300000, guid: ec2e4d38a3215a842bfdffdfcec791ce, type: 3}
